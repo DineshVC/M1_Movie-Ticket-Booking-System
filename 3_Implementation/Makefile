@@ -5,7 +5,7 @@ src/choice1.c\
 src/cmovie.c\
 src/details.c\
 src/movie.c\
-src/moviedetails.c\
+src/moviedetails.c\ 
 src/price.c\
 src/reservation.c\
 src/tic1.c\
