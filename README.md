@@ -1,6 +1,6 @@
 # SDLC Activity Based Learning
 
-![Banner](https://github.com/goutami8989/Stepin_Movie-Ticket-Booking-System/blob/main/1_Requirements/banner.png)
+![Banner](https://github.com/DineshVC/Movie-Ticket-Booking-System/blob/main/1_Requirements/banner.png)
 
 <!--
 Visit [Pages for Report -optional](using github.io option)
@@ -13,9 +13,9 @@ Build | Code Quality | Unity | [Git Inspector](using github.io option)
 -->
 
 ![Code_Quality_Grade](https://www.code-inspector.com/project/27638/status/svg)
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/5ecd85a2c4234d69affd5a4d5d96af52)](https://www.codacy.com/gh/goutami8989/Stepin_Movie-Ticket-Booking-System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=goutami8989/Stepin_Movie-Ticket-Booking-System&amp;utm_campaign=Badge_Grade)
-[![cppcheck-action](https://github.com/goutami8989/Stepin_Movie-Ticket-Booking-System/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/goutami8989/Stepin_Movie-Ticket-Booking-System/actions/workflows/cppcheck.yml)
-[![C/C++ CI](https://github.com/goutami8989/Stepin_Movie-Ticket-Booking-System/actions/workflows/c-build.yml/badge.svg)](https://github.com/goutami8989/Stepin_Movie-Ticket-Booking-System/actions/workflows/c-build.yml)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/5ecd85a2c4234d69affd5a4d5d96af52)](https://www.codacy.com/gh/DineshVC/Movie-Ticket-Booking-System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=DineshVC/Movie-Ticket-Booking-System&amp;utm_campaign=Badge_Grade)
+[![cppcheck-action](https://github.com/DineshVC/Movie-Ticket-Booking-System/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/DineshVC/Movie-Ticket-Booking-System/actions/workflows/cppcheck.yml)
+[![C/C++ CI](https://github.com/DineshVC/Movie-Ticket-Booking-System/actions/workflows/c-build.yml/badge.svg)](https://github.com/DineshVC/Movie-Ticket-Booking-System/actions/workflows/c-build.yml)
 [![Unit testing](https://github.com/goutami8989/Stepin_Movie-Ticket-Booking-System/actions/workflows/unit-test.yml/badge.svg)](https://github.com/goutami8989/Stepin_Movie-Ticket-Booking-System/actions/workflows/unit-test.yml)
 [![Contribution Check - Git Inspector](https://github.com/goutami8989/Stepin_Movie-Ticket-Booking-System/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/goutami8989/Stepin_Movie-Ticket-Booking-System/actions/workflows/gitinspector.yml)
 
