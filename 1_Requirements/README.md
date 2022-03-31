@@ -67,7 +67,7 @@ Movie Ticket Booking System have few inbuilt features like
 | HR04 | User shall be able to cancel a ticket| Techincal | IMPLEMENTED |
 | HR05 | User shall be able to view the reserved seats  | Techincal | IMPLEMENTED |
 
-### Low level Requirements
+### Low level Requirements 
  
 | ID | Description | HLR ID | Status (Implemented/Future) |
 | ------ | --------- | ------ | ----- |
