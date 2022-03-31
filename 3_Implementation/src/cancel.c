@@ -2,7 +2,7 @@
 #include "moviedetails.c"
 #include<string.h>
 
-struct movie_details person[300];
+struct movie_details person[300]; 
 void cancelticket(int *array)
 {
       int Cseat,i,stop;
