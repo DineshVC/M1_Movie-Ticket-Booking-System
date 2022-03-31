@@ -1,6 +1,6 @@
 # SDLC Activity Based Learning
 
-![Banner](https://github.com/DineshVC/Movie-Ticket-Booking-System/blob/main/1_Requirements/banner.png)
+![Banner](https://github.com/DineshVC/Movie-Ticket-Booking-System/blob/main/1_Requirements/Banner.png)
 
 <!--
 Visit [Pages for Report -optional](using github.io option)
