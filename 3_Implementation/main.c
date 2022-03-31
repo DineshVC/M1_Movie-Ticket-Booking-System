@@ -9,7 +9,7 @@
 int main()
 {
     int count = 0;
-	int **seatnum,choice,price=500,selection,i;
+	int **seatnum,choice,price=500,selection,i; 
 	seatnum=(int **)calloc(101,sizeof(int *));
 	for (i=0;i<3;i++)
 		*(seatnum+i)=(int *)calloc(101,sizeof(int ));
